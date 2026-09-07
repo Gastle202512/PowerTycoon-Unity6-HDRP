@@ -1,0 +1,42 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.pidb
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# Packages
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# NuGet
+.nuget/
+
+# Test Results
+TestResults/
